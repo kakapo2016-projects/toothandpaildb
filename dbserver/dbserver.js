@@ -10,7 +10,7 @@ var app = express()
 app.use(compression())
 
 app.use(cors({
-  origin: 'https://toothandpail.herokuapp.com'
+  origin: 'http://toothandpail.herokuapp.com'
 }))
 
 routes(app)
