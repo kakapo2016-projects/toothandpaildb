@@ -6,17 +6,7 @@ var bcrypt = require('bcryptjs')
 var moment = require ('moment')
 var knex = require('knex')(require('../knexfile.js'))
 
-
-var knex = require('knex')({
-  client: 'pg',
-  connection: {
-    Host: 'ec2-107-20-153-141.compute-1.amazonaws.com',
-    Database: 'd9ab1cgusivm2d',
-    User: 'yseilnlshawpvi',
-    Password: 'PTiKZYxGzMiv0ySbgizs3h6UEY',
-    Port: 5432
-  }
-})
+var database = 'tooth_and_pail'
 
 // var knex = require('knex')({
 //   client: 'sqlite3',

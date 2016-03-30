@@ -4,12 +4,13 @@ var express = require('express')
 var cors = require('cors')
 var compression = require('compression')
 var routes = require('./dbroutes')
+var knex = require('knex')
 
 var app = express()
 app.use(compression())
 
 app.use(cors({
-  origin: 'http://localhost:8080'
+  origin: 'https://toothandpail.herokuapp.com'
 }))
 
 routes(app)
