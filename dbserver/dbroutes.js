@@ -10,8 +10,11 @@ var knex = require('knex')(require('../knexfile.js'))
 var knex = require('knex')({
   client: 'pg',
   connection: {
-    host     : '127.0.0.1',
-    database : 'tooth_and_pail'
+    Host: 'ec2-107-20-153-141.compute-1.amazonaws.com',
+    Database: 'd9ab1cgusivm2d',
+    User: 'yseilnlshawpvi',
+    Password: 'PTiKZYxGzMiv0ySbgizs3h6UEY',
+    Port: 5432
   }
 })
 
