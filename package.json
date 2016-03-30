@@ -1,0 +1,19 @@
+{
+  "name": "toothandpaildb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dbserver/dbserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kakapo2016-projects/toothandpaildb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakapo2016-projects/toothandpaildb/issues"
+  },
+  "homepage": "https://github.com/kakapo2016-projects/toothandpaildb"
+}

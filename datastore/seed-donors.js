@@ -1,0 +1,21 @@
+module.exports = [
+  {donorID: '1111', donorName:'money-bags', passwordHash: 'r111', email:'moneybags@xtra.co.nz', createdAt:'2015-02-26 01:22:30'},
+  {donorID: '2222', donorName:'richie-rich', passwordHash: 'r222', email:'loadsofcash@cashking.co.nz', createdAt:'2015-02-26 01:22:30'},
+  {donorID: '3333', donorName:'the-donald', passwordHash: 'r333', email:'richascroecus@cashisking.co.nz', createdAt:'2015-02-26 01:22:30'},
+  {donorID: '4444', donorName:'Bill-Gates', passwordHash: 'r555', email:'billgates@cashking.co.nz', createdAt:'2015-03-26 01:22:30'},
+  {donorID: '5555', donorName:'Amancio-Ortega', passwordHash: 'r666', email:'Amancio-Ortega@cashisking.co.nz', createdAt:'2015-03-26 01:22:30'},
+  {donorID: '6666', donorName:'Warren-Buffett', passwordHash: 'r888', email:'Warren-Buffett@cashking.co.nz', createdAt:'2015-03-26 01:22:30'},
+  {donorID: '7777', donorName:'Carlos-Slim-Helu', passwordHash: 'r999', email:'Carlos-Slim-Helu@cashisking.co.nz', createdAt:'2015-04-26 01:22:30'},
+  {donorID: '8888', donorName:'Jeff-Bezos', passwordHash: 'r102', email:'Jeff-Bezos@cashking.co.nz', createdAt:'2015-04-26 01:22:30'},
+  {donorID: '9999', donorName:'Mark-Zuckerberg', passwordHash: 'r103', email:'rMark-Zuckerberg@cashisking.co.nz', createdAt:'2015-04-26 01:22:30'},
+  {donorID: '1010', donorName:'Larry-Ellison', passwordHash: 'r105', email:'Larry-Ellison@cashking.co.nz', createdAt:'2015-04-26 01:22:30'},
+  {donorID: '1212', donorName:'Michael-Bloomberg', passwordHash: 'r106', email:'Michael-Bloomberg@cashisking.co.nz', createdAt:'2015-05-26 01:22:30'},
+  {donorID: '2323', donorName:'Liliane-Bettencourt', passwordHash: 'r108', email:'Liliane-Bettencourt@cashking.co.nz', createdAt:'2015-05-26 01:22:30'},
+  {donorID: '3232', donorName:'Larry-Page', passwordHash: 'r109', email:'Larry-Page@cashisking.co.nz', createdAt:'2015-05-26 01:22:30'},
+  {donorID: '4343', donorName:'Sergey-Brin', passwordHash: 'r112', email:'Sergey-Brin@cashking.co.nz', createdAt:'2015-06-26 01:22:30'},
+  {donorID: '4545', donorName:'Bernard-Arnault', passwordHash: 'r113', email:'Bernard-Arnault@cashisking.co.nz', createdAt:'2015-08-26 01:22:30'},
+  {donorID: '5454', donorName:'Wang-Jianlin', passwordHash: 'r115', email:'Wang-Jianlin@cashking.co.nz', createdAt:'2015-08-26 01:22:30'},
+  {donorID: '5656', donorName:'Jorge-Paulo-Lemann', passwordHash: 'r116', email:'Jorge-Paulo-Lemann@cashisking.co.nz', createdAt:'2015-11-26 01:22:30'},
+  {donorID: '6565', donorName:'Li-Ka-shing', passwordHash: 'r118', email:'Li-Ka-shing@cashking.co.nz', createdAt:'2015-12-26 01:22:30'},
+  {donorID: '6767', donorName:'Phil-Knight', passwordHash: 'r119', email:'Phil-Knight@cashisking.co.nz', createdAt:'2016-03-26 01:22:30'}
+]
