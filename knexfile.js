@@ -1,6 +1,6 @@
-module.exports =  {
+module.exports = process.env.DATABASE_URL || {
   client: 'pg',
-  connection: process.env.DATABASE_URL || {
+  connection: {
     url: process.env.DATABASE_URL,
     host: process.env.DBHOST,
     database: process.env.DBNAME,
